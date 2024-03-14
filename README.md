@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NFT Gallery
 
 Create your own NFT gallery for any ERC721/ERC1155 NFT collection on [any EVM-compatible chain](https://blog.thirdweb.com/any-contract-any-evm-chain/).
@@ -39,3 +40,8 @@ Update the styles in the respective components by changing the [Tailwind](https:
 ## Join our Discord!
 
 For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+=======
+https://thirdweb.com/template/nft-gallery
+
+Ref: smart contract address/chain name in src/consts/parameters.ts file
+>>>>>>> 6b79e745ee034f60f5365f921aff6962144b375d
